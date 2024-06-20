@@ -2,7 +2,7 @@
 This is a simple web-based calculator built using HTML, CSS, and JavaScript. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ### Live Demo
-You can try out the live demo of the calculator here.
+You can try out the live demo of the calculator here https://calculator-seven-beige-68.vercel.app/ .
 
 ### Features:
 -Clean and modern user interface<br>
